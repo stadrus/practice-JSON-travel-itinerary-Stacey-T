@@ -1,0 +1,36 @@
+{   "tripName": "Summer Fun!",
+    "traveler": "Tony Jacks",
+        "contact": {
+            "email": "testemail@testemail.com",
+            "phone": "123-456-7890"
+        },
+
+    "destinations": [
+        {
+            "location": "Paris",
+            "arrivalDate": "2025-05-23",
+            "departureDate":  "2025-06-13",
+            "activities": [
+                {"title": "Museum Tour", 
+                    "time": "12:00 PM" },
+                {"title": "Bike Tour",
+                    "time": "3:00 PM"}
+                ]
+
+            },
+ 
+        {
+            "location": "Aruba",
+            "arrivalDate": "2025-06-13",
+            "departureDate":  "2025-07-27",
+            "activities": [
+                {"title": "Horseback Ride", 
+                    "time": "10:00 AM" },
+                {"title": "Bike Tour",
+                    "time": "2:00 PM"}]
+        }
+        ]
+}
+
+
+
